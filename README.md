@@ -1,4 +1,4 @@
-# Mouse Polling Rate Checker
+# PollingRateCheck
 
 This is a Python script that displays your current mouse polling rate on Windows.
 
